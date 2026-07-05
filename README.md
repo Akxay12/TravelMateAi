@@ -1,6 +1,11 @@
 
 ![Architecture](docs/architectureImage.png)
 
+# 🎥 Demo Video
+
+Watch the complete project demonstration on YouTube:
+👉 https://youtu.be/DITw7D7GzRE
+
 # 🌍 TravelMate AI 2.0
 
 > An AI-powered Concierge Travel Planner built using **Google ADK**, **MCP Servers**, **FastAPI**, **React**, and **Google Gemini** to generate intelligent, personalized travel itineraries.
